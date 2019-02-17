@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="wwgou_service:war">
+    <output-path>$PROJECT_DIR$/wwgou_service/target</output-path>
+    <root id="archive" name="wwgou_service-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="wwgou_service:war exploded" />
+    </root>
+  </artifact>
+</component>

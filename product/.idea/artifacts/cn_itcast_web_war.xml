@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="cn_itcast_web:war">
+    <output-path>$PROJECT_DIR$/cn_itcast_web/target</output-path>
+    <root id="archive" name="cn_itcast_web.war">
+      <element id="artifact" artifact-name="cn_itcast_web:war exploded" />
+    </root>
+  </artifact>
+</component>

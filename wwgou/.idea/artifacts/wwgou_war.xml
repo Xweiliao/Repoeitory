@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="wwgou:war">
+    <output-path>$PROJECT_DIR$/wwgou/target</output-path>
+    <root id="archive" name="wwgou.war">
+      <element id="artifact" artifact-name="wwgou:war exploded" />
+    </root>
+  </artifact>
+</component>
